@@ -753,6 +753,7 @@ img{
 .portfolio__img{
     width: 265px;
     border-radius: .5rem;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.2);
     justify-self: center;
 }
 
